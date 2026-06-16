@@ -12,7 +12,7 @@ I'm an AI/ML engineer with hands-on experience across **deep learning**, **compu
 -  Deployed a Safe RL navigation system tested at **TATA Motors India** — [published in ScienceDirect](https://www.sciencedirect.com/science/article/pii/S2772671124003905)
 -  Built a 3D point cloud classifier achieving **94.4% on ModelNet10** — outperforming state-of-the-art by 1.3% — [published in IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10734087)
 -  Programmed a YuMi robot to solve a Rubik's Cube at **ABB India** using optimised CV + solving algorithms
--  Published research on visual speech recognition (lip reading) — [preprint](https://www.preprints.org/manuscript/202312.0928/v1)
+-  Aerial image segmentation via hybrid Swin-UNet — [preprint](https://www.preprints.org/manuscript/202312.0928/v1)
 
 ---
 
@@ -54,7 +54,7 @@ I'm an AI/ML engineer with hands-on experience across **deep learning**, **compu
 |-------|-------|------|
 | [A Comprehensive Review on Safe Reinforcement Learning for Autonomous Vehicle Control in Dynamic Environments](https://www.sciencedirect.com/science/article/pii/S2772671124003905) | ScienceDirect | 2024 |
 | [Point Cloud-Based 3D Object Classification With Non Local Attention and Lightweight Convolution Neural Networks](https://ieeexplore.ieee.org/abstract/document/10734087) | IEEE Xplore | 2024 |
-| [LipReader: Visual Speech Recognition Web Application](https://www.preprints.org/manuscript/202312.0928/v1) | Preprints.org | 2023 |
+| [Enhanced aerial image segmentation via hybrid Swin-UNet with dilated convolutions and multi-scale fusion]((https://link.springer.com/article/10.1007/s11760-025-04522-9)) | Springer Nature Link | 2025 |
 
 ---
 
@@ -62,7 +62,7 @@ I'm an AI/ML engineer with hands-on experience across **deep learning**, **compu
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/s-kavin-sundarr-333450238)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kavin.sundarr@gmail.com)
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=zEFbP4YAAAAJ&hl=en)
 
 ---
 
