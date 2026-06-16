@@ -7,20 +7,19 @@ Building deep learning systems that outperform benchmarks and deploy in the real
 
 ## About Me
 
-I'm an AI/ML engineer with hands-on experience across **deep learning**, **computer vision**, **NLP**, and **reinforcement learning** — from research labs to production deployments. Currently completing my MSc in Artificial Intelligence at the University of Manchester, I focus on designing models that don't just work in notebooks but deliver in the real world.
+I'm an AI/ML engineer with hands-on experience across **deep learning**, **RAG**, **LLMs**, and **reinforcement learning**. Currently completing my MSc in Artificial Intelligence at the University of Manchester, I focus on designing models that deliver in the real world by solving existing problems.
 
 -  Deployed a Safe RL navigation system tested at **TATA Motors India** — [published in ScienceDirect](https://www.sciencedirect.com/science/article/pii/S2772671124003905)
 -  Built a 3D point cloud classifier achieving **94.4% on ModelNet10** — outperforming state-of-the-art by 1.3% — [published in IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10734087)
 -  Programmed a YuMi robot to solve a Rubik's Cube at **ABB India** using optimised CV + solving algorithms
--  Aerial image segmentation via hybrid Swin-UNet — [preprint](https://www.preprints.org/manuscript/202312.0928/v1)
+-  Aerial image segmentation via hybrid Swin-UNet — [Springer Nature Link](https://link.springer.com/article/10.1007/s11760-025-04522-9)
 
 ---
 
 ## Tech Stack
 
 **Languages:** Python · C/C++ · SQL  
-**Deep Learning:** PyTorch · TensorFlow · Keras · Hugging Face Transformers  
-**Computer Vision:** OpenCV · Swin Transformer · UNet · YOLO  
+**Deep Learning:** PyTorch · TensorFlow · Keras · Hugging Face Transformers    
 **NLP / LLMs:** Attention Mechanisms · BiLSTM · Transformer Architectures · Sentiment Analysis  
 **Reinforcement Learning:** TD3 · PPO · Deep Q-Networks · ROS2 · Gazebo  
 **Deployment & MLOps:** Docker · Streamlit · FastAPI · TensorBoard  
@@ -54,7 +53,7 @@ I'm an AI/ML engineer with hands-on experience across **deep learning**, **compu
 |-------|-------|------|
 | [A Comprehensive Review on Safe Reinforcement Learning for Autonomous Vehicle Control in Dynamic Environments](https://www.sciencedirect.com/science/article/pii/S2772671124003905) | ScienceDirect | 2024 |
 | [Point Cloud-Based 3D Object Classification With Non Local Attention and Lightweight Convolution Neural Networks](https://ieeexplore.ieee.org/abstract/document/10734087) | IEEE Xplore | 2024 |
-| [Enhanced aerial image segmentation via hybrid Swin-UNet with dilated convolutions and multi-scale fusion]((https://link.springer.com/article/10.1007/s11760-025-04522-9)) | Springer Nature Link | 2025 |
+| [Enhanced aerial image segmentation via hybrid Swin-UNet with dilated convolutions and multi-scale fusion](https://link.springer.com/article/10.1007/s11760-025-04522-9) | Springer Nature Link | 2025 |
 
 ---
 
